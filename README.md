@@ -8,7 +8,7 @@ In order to use the Power BI (.pbix) files found in the projects, you must have 
 
 If you do not have Power BI Desktop downloaded, you can do so folowing this link: https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
 
-## Atlas Labs HR Dashboard
+# Atlas Labs HR Dashboard
 
 ![Employee Overview](https://github.com/user-attachments/assets/2ef389a6-9a9d-4521-8de4-f7c2750b4501)
 
