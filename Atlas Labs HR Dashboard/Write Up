@@ -1,0 +1,3 @@
+# Data Transformations
+
+This project started with three CSV files; a Survey datatset, Employee dataset, and an Education Field dataset. Aside from a few spelling errors that I identified, the data was relatively clean. There were two issues that I identified while assesing the data. First was that the Emplyee table had duplicate "Employee Id's". This wasn't an issue for the "Employee Overview" and "Attrition Analysis" pages but would be for the "Survey Analysis". 
