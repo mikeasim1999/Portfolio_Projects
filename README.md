@@ -16,7 +16,7 @@ Atlas Labs is a fictional software company looking to better understand their wo
 
 This report is broken down into three pages: Employee Overview, Survey Analysis, and Employee Attrition. Employee Overview lists general information such as the number of employees currently employed by their generation or number of employees by their salary range. This page should be used to inform decision makers at Atlas Labs about their workforce and may present areas they could improve. There are two types of surveys on the Survey Analysis page, surveys about how employees feel about their job and enviorment and a performance survey done by the employees and their managers. Employee Attrition shows either attrition count or rate based on the metric you select. Attrition is broken down into similar category's as the Employee Overview.
 
-To dive further into this project, navigate to the "Atlas Labs HR Dashboard" folder above and view a brief report write up, source data, or the pbix file!
+To dive further into this project, navigate to the "Atlas Labs HR Dashboard" folder above and view additional screenshots, source data, or the pbix file!
 
 # GPC Income Statement
 
@@ -26,4 +26,4 @@ GPC, or Genuine Parts Company, is one of the largest automotive or industrial af
 
 By pulling their last four Income Statements off of Yahoo Finance, I assembled a Dashboard with their Income statement, financial ratios, and line charts that display their YoY trends for revenue and EBITDA.
 
-To dive further into this project, navigate to the "GPC Income Statement" folder above and view a brief report write up, source data, or the pbix file!
+To dive further into this project, navigate to the "GPC Income Statement" folder above and view additional screenshots, source data, or the pbix file!
