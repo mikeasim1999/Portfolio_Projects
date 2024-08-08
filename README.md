@@ -7,3 +7,5 @@ This Repository contains the Power BI projects I have completed so far using rea
 In order to use the Power BI (.pbix) files found in the projects, you must have Power BI Desktop downloaded. 
 
 If you do not have Power BI Desktop downloaded, you can do so folowing this link: https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
+
+# Atlas Labs HR Dashboard
