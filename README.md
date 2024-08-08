@@ -10,4 +10,6 @@ If you do not have Power BI Desktop downloaded, you can do so folowing this link
 
 # Atlas Labs HR Dashboard
 
+![Dashboard](https://github.com/user-attachments/assets/534a39f9-c5eb-472b-8bc2-dac9385eb170)
+
 # GPC Income Statement
