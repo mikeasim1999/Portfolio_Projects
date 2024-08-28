@@ -1,9 +1,9 @@
 # Data Transformations
 
-# Before Transformation
+## Before Transformation
 ![Before Transformations](https://github.com/user-attachments/assets/eb54c4b0-7688-4b1d-8720-c3edabc00000)
 
-# After Transformation
+## After Transformation
 ![After Transformations](https://github.com/user-attachments/assets/81d361ff-cea8-4d92-be94-8ee8bc861859)
 
 # Data Model
