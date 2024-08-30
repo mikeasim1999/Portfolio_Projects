@@ -2,6 +2,7 @@
 This data came from [Yahoo Finance](https://finance.yahoo.com/quote/GPC/financials/) and was uploaded into an Excel file. Once this data was put into Excel, I also created a general ledger that will help facilitate the income statement in Power BI.
 
 # Data Transformations
+After I had uploaded the Excel data into Power BI, I still needed to unpivot the data so that the dates were in one column and values in another.
 
 ## Before Transformation
 ![Before Transformations](https://github.com/user-attachments/assets/eb54c4b0-7688-4b1d-8720-c3edabc00000)
