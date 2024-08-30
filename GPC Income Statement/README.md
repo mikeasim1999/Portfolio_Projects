@@ -1,5 +1,4 @@
 # The data
-
 This data came from [Yahoo Finance](https://finance.yahoo.com/quote/GPC/financials/) and was uploaded into an Excel file. Once this data was put into Excel, I also created a general ledger that will help facilitate the income statement in Power BI.
 
 # Data Transformations
